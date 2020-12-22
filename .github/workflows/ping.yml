@@ -19,4 +19,4 @@ jobs:
     - name: Install dependencies
       run: dotnet tool restore
     - name: Run
-      run: dotnet tool run Web.Ping --host http://860754.xyz
+      run: dotnet tool run Web.Ping --host https://860754.xyz
